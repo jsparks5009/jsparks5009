@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jamie, a data analyst with a unique background in professional cooking.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiesparks433@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jamieksparks) <p align='left'>Hi! I'm Jamie, a data analyst with a unique background as a professional chef, bringing creativity and precision from the culinary world to the realm of data analytics. My journey from crafting personalized menus and performing my craft in varied, and sometimes challenging environments, to analyzing complex datasets has equipped me with a diverse skill set, enabling me to drive impactful insights and solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jamieksparks) <p align='left'>Hi! I'm Jamie, a data analyst who brings creativity and precision from the culinary world to the realm of data. My journey from crafting personalized menus and performing my craft in varied, and sometimes challenging environments, to analyzing complex datasets has equipped me with a diverse skill set, enabling me to drive impactful insights and solutions.
 
 ### MY JOURNEY
 #### From Culinary to Data
